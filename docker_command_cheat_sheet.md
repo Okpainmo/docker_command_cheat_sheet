@@ -244,4 +244,3 @@ docker build --no-cache -t image-name .
 
 ---
 
-Would you like a printable version (PDF or Markdown file) of this cheat sheet?
