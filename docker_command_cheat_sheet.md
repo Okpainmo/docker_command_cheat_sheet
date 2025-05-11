@@ -244,3 +244,11 @@ docker build --no-cache -t image-name .
 
 ---
 
+## 🧪 26. View Container Environment Variables
+
+```bash
+docker exec -it container-name env
+```
+
+---
+
