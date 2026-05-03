@@ -1,4 +1,4 @@
-# Python Docker Project Command Sheet.
+# Docker Project Command Sheet.
 
 A simple repository - mainly containing a sheet with commands, to help streamline the workflow process when working with Docker.
 
