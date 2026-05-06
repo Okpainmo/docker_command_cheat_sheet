@@ -55,7 +55,8 @@ docker image tag image-name username/image-name:tag
 ## 📤 4. Push Image to Docker Hub
 
 ```bash
-docker image push docker-hub-user-name/image-name:tag-name
+docker image push image-name
+docker image push image-name:tag-name
 ```
 
 ---
